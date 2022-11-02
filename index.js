@@ -1,4 +1,5 @@
 function ultimaParada(combustivel, consumo, postosDeGasolina) {
+  
   let quantidadeDeKmARodar = consumo * combustivel;
 
   let postoParaAbastecer = 0;
